@@ -1,1 +1,1 @@
-# stm32-gyro
+# stm32-gyroscope 
