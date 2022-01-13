@@ -1,7 +1,6 @@
 /* 
-Author: PP2603 - Pavan Posani
-University No: N18209319
-Email: pp2603@nyu.edu
+Author: Pavan Posani
+
 */
 
 #include "gyro.h"
